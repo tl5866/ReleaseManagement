@@ -1,1 +1,1 @@
-Config content
+SessionTimeout = 20m
