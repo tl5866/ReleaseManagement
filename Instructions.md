@@ -1,3 +1,3 @@
-[ ] Auth0 deployment: Tim
+- [ ] Auth0 deployment: Tim
 
-[ ] Package deployment: SRE
+- [ ] Package deployment: SRE
