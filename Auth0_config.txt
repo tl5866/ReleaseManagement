@@ -1,1 +1,1 @@
-SessionTimeout = 20m
+SessionTimeout = 30m
