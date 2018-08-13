@@ -1,0 +1,1 @@
+SessionTimeout = 30m
